@@ -1,0 +1,5 @@
+# node/npm
+node_modules/*
+
+# build
+lib/*
