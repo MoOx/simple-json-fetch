@@ -1,6 +1,6 @@
 {
   "name": "simple-json-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "whatwg fetch(), wrapped and enhanced for JSON response.",
   "keywords": [
     "whatwg",
@@ -10,6 +10,7 @@
   "author": "Maxime Thirouin",
   "license": "MIT",
   "repository": "https://github.com/MoOx/simple-json-fetch.git",
+  "main": "lib/index.js",
   "files": [
     "lib",
     "src",
